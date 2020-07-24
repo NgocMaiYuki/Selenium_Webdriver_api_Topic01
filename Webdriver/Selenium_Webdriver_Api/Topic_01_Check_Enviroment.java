@@ -12,4 +12,8 @@ public class Topic_01_Check_Enviroment {
 	public void TC_01() {
 
 	}
+	@Test
+	public void TC_02() {
+
+	}
 }
