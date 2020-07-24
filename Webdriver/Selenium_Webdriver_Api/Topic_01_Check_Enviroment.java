@@ -14,6 +14,11 @@ public class Topic_01_Check_Enviroment {
 	}
 	@Test
 	public void TC_02() {
+		System.out.println("I'll fly higher");
+
+	}
+	@Test
+	public void TC_03() {
 
 	}
 }
